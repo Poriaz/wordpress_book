@@ -1,0 +1,59 @@
+<style type="text/css">
+table.gridtable {
+	font-family: verdana,arial,sans-serif;
+	font-size:11px;
+	color:#333333;
+	border-width: 1px;
+	border-color: #666666;
+	border-collapse: collapse;
+	width:95%;
+}
+table.gridtable th {
+	border-width: 1px;
+	padding: 8px;
+	border-style: solid;
+	border-color: #666666;
+	background-color: #dedede;
+}
+table.gridtable td {
+	border-width: 1px;
+	padding: 8px;
+	border-style: solid;
+	border-color: #666666;
+	background-color: #ffffff;
+}
+.header{
+	background: lightgray none repeat scroll 0 0;
+	padding: 10px;
+	width: 95%;
+	margin-top:10px;
+}
+.footer{
+	background: lightgray none repeat scroll 0 0;
+	padding: 10px;
+	width: 95%;
+	padding-left:45px;
+	margin-top:10px;
+}
+.booking_footer{
+	color:#0073aa;
+
+}
+.gridtable{
+	width:99%;
+}
+
+.booking_button {
+    border: 1px solid #0073aa;
+    height: 30px;
+    padding: 5px;
+    text-decoration: none;
+    color:#0073aa;
+}
+.booking_h3 {
+color:#0073aa;
+}
+.booking_h4 {
+color:#0073aa;
+}
+</style>
